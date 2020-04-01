@@ -103,11 +103,11 @@ For each mail in the testing corpus, we compute the posterior probability for it
 We have used the model to classify the testing mail corpus and calculated True Positives (TP), True Negatives (TN), False Positives (FP) and False Negatives (FN) by comparing our predictions with the provided results.
 The confusion matrix is as follows:
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/svbhakth-mabartak-knikharg-a3/blob/master/part3/ConfusionMatrix.PNG)
+![alt text](https://github.com/madhura42/NLP-Probability-and-Statistical-Learning/blob/master/part3/ConfusionMatrix.PNG)
 
 We have used the following metrics to measure the performance of the model:
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/svbhakth-mabartak-knikharg-a3/blob/master/part3/Metrics.PNG)
+![alt text](https://github.com/madhura42/NLP-Probability-and-Statistical-Learning/blob/master/part3/Metrics.PNG)
 
 1.	Accuracy: Accuracy is the ratio of the mails correctly identified as ‘spam’ or ‘notspam’ to the entire testing corpus. In other words, it measures how many mails we correctly labeled out of all mails. It is calculated as (TP+TN)/(TP+FP+FN+TN)
 
