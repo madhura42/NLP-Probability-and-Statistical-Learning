@@ -1,5 +1,4 @@
-# Part 1 
-POS tagger 
+# Part 1 : POS tagger 
 
 Implementation of Part-of-speech tagger on a dataset based of brown corpus containing 12 part-of-speech tags namely ADJ (adjective), ADV (adverb), ADP (adposition), CONJ (conjunction), DET (determiner), NOUN, NUM (number), PRON (pronoun), PRT (particle), VERB, X (foreign word), and . (punctuation mark)
 
